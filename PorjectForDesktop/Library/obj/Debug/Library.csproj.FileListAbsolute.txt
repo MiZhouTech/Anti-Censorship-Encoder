@@ -1,0 +1,6 @@
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\Library\bin\Debug\Library.dll
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\Library\bin\Debug\Library.pdb
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\Library\obj\Debug\Library.dll
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\Library\obj\Debug\Library.pdb

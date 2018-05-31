@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace Library
 {
-    class Decoder
+    static class EncoderV2
     {
 
 
+        
     }
 }

@@ -1,0 +1,13 @@
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WindowsForms\bin\Debug\WindowsForms.exe.config
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WindowsForms\bin\Debug\WindowsForms.exe
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WindowsForms\bin\Debug\WindowsForms.pdb
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WindowsForms\bin\Debug\Library.dll
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WindowsForms\bin\Debug\Library.pdb
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WindowsForms\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WindowsForms\obj\Debug\WindowsForms.exe
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WindowsForms\obj\Debug\WindowsForms.pdb
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WindowsForms\obj\Debug\WindowsForms.FormMain.resources

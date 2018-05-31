@@ -1,0 +1,10 @@
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\ConsoleVer\bin\Debug\ConsoleVer.exe.config
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\ConsoleVer\bin\Debug\ConsoleVer.exe
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\ConsoleVer\bin\Debug\ConsoleVer.pdb
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\ConsoleVer\bin\Debug\Library.dll
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\ConsoleVer\bin\Debug\Library.pdb
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\ConsoleVer\obj\Debug\ConsoleVer.csprojResolveAssemblyReference.cache
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\ConsoleVer\obj\Debug\ConsoleVer.csproj.CoreCompileInputs.cache
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\ConsoleVer\obj\Debug\ConsoleVer.csproj.CopyComplete
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\ConsoleVer\obj\Debug\ConsoleVer.exe
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\ConsoleVer\obj\Debug\ConsoleVer.pdb
