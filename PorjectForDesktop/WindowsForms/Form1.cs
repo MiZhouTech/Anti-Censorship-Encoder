@@ -18,7 +18,7 @@ namespace WindowsForms
         const string errorENG = "Sorry, a bug appeared... Please report the error message below to the developer: ";
         string errorLangNow; 
         const string titleENG = "Text Mosaic - Censorship Avoider - v0.0.0";
-        const string titleCHN = "文字打码助手 - v0.0.0";
+        const string titleCHN = "文字打码助手 - 测试版 v0.0.0";
         const string emptyString = "";
 
         public FormMain()
@@ -99,7 +99,8 @@ namespace WindowsForms
             Text = language == "CHN" ? titleCHN : titleENG;
             Encode.Text = language == "CHN" ? "打码 >>" : "Encode >>";
             Decode.Text = language == "CHN" ? "<< 解码" : "<< Decode";
-            KeyTips.Text = language == "CHN" ? "输入神秘代码：" : "Key to use:";
+            KeyTips.Text = language == "CHN" ? "输入神秘代码：（格式： 用杠-分割的-替换字符-最长-可-16组-字词-互相-不能-重复-，-不足时-会有-默认-标点-补位）" 
+                : "Key to use: (format: A-string of-UP TO-16-fields of words-separated-by dash-without-duplication-if-bugs-appear-pls-try-other-combinations)";
             RawText.Text = emptyString;
             EncryptedText.Text = emptyString;
             ErrorTips.Text = emptyString;

@@ -9,7 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "Library\Library.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForms", "WindowsForms\WindowsForms.csproj", "{C7D79E53-916F-48D1-9074-89865F231EE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{C809903D-558C-493B-8B09-A45C93AD5B1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTest", "UnitTest\UnitTest.csproj", "{C809903D-558C-493B-8B09-A45C93AD5B1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextMosaic", "..\ProjectForWeb\TextMosaic\TextMosaic.csproj", "{6F90CB2C-E1E9-4DFC-8637-6506CFED58EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WenZiMaSaiKe", "WenZiMaSaiKe\WenZiMaSaiKe.csproj", "{A4B05118-E716-4B38-A19D-2417ECCD48BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{C809903D-558C-493B-8B09-A45C93AD5B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C809903D-558C-493B-8B09-A45C93AD5B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C809903D-558C-493B-8B09-A45C93AD5B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F90CB2C-E1E9-4DFC-8637-6506CFED58EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F90CB2C-E1E9-4DFC-8637-6506CFED58EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F90CB2C-E1E9-4DFC-8637-6506CFED58EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F90CB2C-E1E9-4DFC-8637-6506CFED58EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B05118-E716-4B38-A19D-2417ECCD48BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B05118-E716-4B38-A19D-2417ECCD48BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B05118-E716-4B38-A19D-2417ECCD48BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B05118-E716-4B38-A19D-2417ECCD48BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
