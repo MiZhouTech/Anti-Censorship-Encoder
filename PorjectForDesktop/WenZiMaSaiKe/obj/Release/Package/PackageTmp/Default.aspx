@@ -10,7 +10,7 @@
     <div class="row">
 
         <div class="col-md-4">
-            <asp:TextBox ID="RawText" runat="server" Height="333px" TextMode="MultiLine" Width="100%" placeholder="这里输入你想打码的内容，或显示右边密文被解码的结果："></asp:TextBox>
+            <asp:TextBox ID="RawText" runat="server" Height="333px" TextMode="MultiLine" Width="100%" placeholder="这里输入你想打码的内容，或显示右边（或下面）密文被解码的结果："></asp:TextBox>
                 
         </div>
         <div class="col-md-4" style="text-align: center">
@@ -30,7 +30,7 @@
             </p>
         </div>
         <div class="col-md-4">
-            <asp:TextBox ID="EncryptedText" runat="server" Height="333px" TextMode="MultiLine" Width="100%" placeholder="这里输入你想解码的内容，或显示左边原文已打码的结果："></asp:TextBox>
+            <asp:TextBox ID="EncryptedText" runat="server" Height="333px" TextMode="MultiLine" Width="100%" placeholder="这里输入你想解码的内容，或显示左边（或上面）原文已打码的结果："></asp:TextBox>
 
         </div>
     </div>
