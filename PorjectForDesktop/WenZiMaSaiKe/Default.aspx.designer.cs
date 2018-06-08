@@ -13,13 +13,31 @@ namespace WenZiMaSaiKe {
     public partial class _Default {
         
         /// <summary>
-        /// KeyString0 control.
+        /// ErrorTips control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox KeyString0;
+        protected global::System.Web.UI.WebControls.Label ErrorTips;
+        
+        /// <summary>
+        /// ErrorText control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label ErrorText;
+        
+        /// <summary>
+        /// RawText control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox RawText;
         
         /// <summary>
         /// KeyString control.
@@ -49,12 +67,12 @@ namespace WenZiMaSaiKe {
         protected global::System.Web.UI.WebControls.Button Decode;
         
         /// <summary>
-        /// KeyString1 control.
+        /// EncryptedText control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox KeyString1;
+        protected global::System.Web.UI.WebControls.TextBox EncryptedText;
     }
 }
