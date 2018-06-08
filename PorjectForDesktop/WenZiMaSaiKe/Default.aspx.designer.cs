@@ -13,6 +13,15 @@ namespace WenZiMaSaiKe {
     public partial class _Default {
         
         /// <summary>
+        /// RawText control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox RawText;
+        
+        /// <summary>
         /// ErrorTips control.
         /// </summary>
         /// <remarks>
@@ -29,15 +38,6 @@ namespace WenZiMaSaiKe {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label ErrorText;
-        
-        /// <summary>
-        /// RawText control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox RawText;
         
         /// <summary>
         /// KeyString control.

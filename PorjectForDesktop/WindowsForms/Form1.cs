@@ -43,7 +43,8 @@ namespace WindowsForms
 
                 if (key == null || key == "") ErrorText.Text = language == "CHN" ? "请输入神秘代码哦。" : "Please type in your key";
                 else if (tempText == null) ErrorText.Text = language == "CHN" ? 
-                        "对不起！您输入的神秘代码或原文有问题，我无法正常打码…注意不要使用重复字词作为密码哦！" :
+                        "对不起！您输入的神秘代码或原文有问题，我无法正常打码…注意不要使用重复字词作为密码哦！" +
+                        "另外，当您使用的神秘代码过短时，请慎用英文标点符号！" :
                     "Sorry, the key or the raw text you typed in does not work. Note that you should not use repeated words/letter sequence.";
             }
             catch (Exception ex)

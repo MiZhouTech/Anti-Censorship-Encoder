@@ -35,8 +35,9 @@ namespace WenZiMaSaiKe
                 string tempText = EncryptedText.Text = EncoderV1.ReplaceHexWithKeyText(temp);
 
                 if (key == null || key == "") ErrorText.Text = "请输入神秘代码哦。";
-                else if (tempText == null) ErrorText.Text = 
-                        "对不起！您输入的神秘代码或原文有问题，我无法正常打码…注意不要使用重复字词作为密码哦！";
+                else if (tempText == null) ErrorText.Text =
+                        "对不起！您输入的神秘代码有问题，无法正常打码…注意不要使用重复字词哦！" +
+                        "当神秘代码过短时，请慎用英文标点符号！更多请看“使用细节”页，或向开发者咨询。";
             }
             catch (Exception ex)
             {

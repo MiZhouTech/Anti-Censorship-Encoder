@@ -79,8 +79,10 @@ E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WenZiMaSai
 E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WenZiMaSaiKe\bin\Microsoft.AI.ServerTelemetryChannel.xml
 E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WenZiMaSaiKe\bin\Microsoft.AI.WindowsServer.xml
 E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WenZiMaSaiKe\bin\Microsoft.AI.Web.xml
-E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WenZiMaSaiKe\obj\Release\WenZiMaSaiKe.csprojResolveAssemblyReference.cache
 E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WenZiMaSaiKe\obj\Release\WenZiMaSaiKe.csproj.CoreCompileInputs.cache
 E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WenZiMaSaiKe\obj\Release\WenZiMaSaiKe.csproj.CopyComplete
 E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WenZiMaSaiKe\obj\Release\WenZiMaSaiKe.dll
 E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WenZiMaSaiKe\obj\Release\WenZiMaSaiKe.pdb
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WenZiMaSaiKe\bin\Library.dll
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WenZiMaSaiKe\bin\Library.pdb
+E:\WebsiteDev\encode-decode\Anti-Censorship-Encoder\PorjectForDesktop\WenZiMaSaiKe\obj\Release\WenZiMaSaiKe.csprojAssemblyReference.cache
