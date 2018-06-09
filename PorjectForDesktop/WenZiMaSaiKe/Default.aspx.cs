@@ -72,5 +72,7 @@ namespace WenZiMaSaiKe
                 ErrorText.Text = ex.Message;
             }
         }
+
+        
     }
 }
